@@ -1,0 +1,15 @@
+C:\Ирина\GB\Программирование С#\homework8\Task005\obj\Debug\net6.0\Task005.csproj.AssemblyReference.cache
+C:\Ирина\GB\Программирование С#\homework8\Task005\obj\Debug\net6.0\Task005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ирина\GB\Программирование С#\homework8\Task005\obj\Debug\net6.0\Task005.AssemblyInfoInputs.cache
+C:\Ирина\GB\Программирование С#\homework8\Task005\obj\Debug\net6.0\Task005.AssemblyInfo.cs
+C:\Ирина\GB\Программирование С#\homework8\Task005\obj\Debug\net6.0\Task005.csproj.CoreCompileInputs.cache
+C:\Ирина\GB\Программирование С#\homework8\Task005\bin\Debug\net6.0\Task005.exe
+C:\Ирина\GB\Программирование С#\homework8\Task005\bin\Debug\net6.0\Task005.deps.json
+C:\Ирина\GB\Программирование С#\homework8\Task005\bin\Debug\net6.0\Task005.runtimeconfig.json
+C:\Ирина\GB\Программирование С#\homework8\Task005\bin\Debug\net6.0\Task005.dll
+C:\Ирина\GB\Программирование С#\homework8\Task005\bin\Debug\net6.0\Task005.pdb
+C:\Ирина\GB\Программирование С#\homework8\Task005\obj\Debug\net6.0\Task005.dll
+C:\Ирина\GB\Программирование С#\homework8\Task005\obj\Debug\net6.0\refint\Task005.dll
+C:\Ирина\GB\Программирование С#\homework8\Task005\obj\Debug\net6.0\Task005.pdb
+C:\Ирина\GB\Программирование С#\homework8\Task005\obj\Debug\net6.0\Task005.genruntimeconfig.cache
+C:\Ирина\GB\Программирование С#\homework8\Task005\obj\Debug\net6.0\ref\Task005.dll
