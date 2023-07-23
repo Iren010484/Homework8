@@ -52,7 +52,7 @@ void ArrangeArray (int[,] matr)
     }
 }
 
-//Clear();
+
 int n = ReadInt("Введите количество строк массива");
 int m = ReadInt("Введите количество столбцов массива");
 int[,] matrix = new int[n, m];
