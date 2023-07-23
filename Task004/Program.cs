@@ -35,25 +35,7 @@ void FillArray(int[,,] matr)
     }  
 }
 
-/*void ArrangeArray (int[,] matr)
-{
-    for (int i = 0; i < matr.GetLength(0); i++)
-    {
-        for (int j = 0; j < matr.GetLength(1); j++)
-        {
-            int maxelem = matr[i,j];
-            for (int k = j+1; k < matr.GetLength(1); k++)
-            {
-                if (maxelem < matr[i,k])  
-                { 
-                    maxelem = matr[i,k];
-                    matr [i,k] = matr [i,j];
-                    matr[i,j] = maxelem;
-                } 
-            }
-        }
-    }
-}*/
+
 
 
 int n = ReadInt("Введите размер массива");
@@ -63,6 +45,3 @@ int[,,] matrix = new int[n,n,n];
 FillArray(matrix);
 Console.WriteLine();
 PrintArray(matrix,n);
-//Console.WriteLine("Отсортированный массив");
-//ArrangeArray(matrix);
-//PrintArray(matrix,n,n,n);
